@@ -4,18 +4,18 @@ This repository contains my ssh and gpg keys.
 List of files:
 
  * id_rsa.pub
-        My main ssh key.
+     My main ssh key.
 
  * boklm.gpg
-        My main gpg key. My emails and commits are usually signed using
-        this key.
+     My main gpg key. My emails and commits are usually signed using
+     this key.
 
-        pub   4096R/1B678A63 2011-08-04
-              Key fingerprint = C9B8 CAC3 318B 9A9E 4883  5961 2067 001B 1B67 8A63
-        uid                  Nicolas Vigier (boklm) <boklm@mars-attacks.org>
-        uid                  Nicolas Vigier (boklm) <boklm@torproject.org>
-        sub   4096R/1F67B0DA 2011-08-04 [expires: 2015-09-01]
+     pub   4096R/1B678A63 2011-08-04
+           Key fingerprint = C9B8 CAC3 318B 9A9E 4883  5961 2067 001B 1B67 8A63
+     uid                  Nicolas Vigier (boklm) <boklm@mars-attacks.org>
+     uid                  Nicolas Vigier (boklm) <boklm@torproject.org>
+     sub   4096R/1F67B0DA 2011-08-04 [expires: 2015-09-01]
 
  * bin/add-to-authorized_keys
-        A script to add my ssh key to authorized_keys.
+     A script to add my ssh key to authorized_keys.
 
